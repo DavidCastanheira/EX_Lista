@@ -8,7 +8,6 @@ public interface ListaEncadeadaInterface <T> {
   public int  tamanho();
   public boolean vazia();
 
-//Exercício//
   public T buscar(int posicao);
   void adicionar(int posicao, T elemento);
 
